@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
 int main() {
-	setlocale(LC_ALL, "Russian");
 	const double PI = 3.14159265358979;
 	double r;
 	cout << "Введите радиус сферы";
